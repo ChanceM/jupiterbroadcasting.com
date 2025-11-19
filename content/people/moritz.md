@@ -1,12 +1,12 @@
 ---
 avatar: /images/people/moritz.jpg
 avatar_small: /images/people/moritz_small.jpg
-bio: null
+bio: ''
 homepage: null
 instagram: null
 linkedin: null
 title: Moritz Kaminski
-twitter: null
+twitter: https://x.com/moritzkaminski
 type: guest
 username: moritz
 youtube: null
